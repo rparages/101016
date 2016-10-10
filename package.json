@@ -1,0 +1,22 @@
+{
+  "name": "beans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "selenium-webdriver": "^3.0.0-beta-3"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
